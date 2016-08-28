@@ -11,3 +11,6 @@
 /log/*
 !/log/.keep
 /tmp
+tester.rb
+score_tester.rb
+review.html
