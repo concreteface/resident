@@ -84,6 +84,8 @@ GEM
       json
       multi_json
       request_store (>= 1.0)
+    haml (4.0.7)
+      tilt
     high_voltage (3.0.0)
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
@@ -231,6 +233,7 @@ DEPENDENCIES
   factory_girl_rails
   foundation-rails
   gon
+  haml
   high_voltage
   httparty
   jbuilder (~> 2.0)
